@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🚀 Welcome! I'm Kashif, a seasoned full-stack web developer with over 7 years of experience. I specialize in:<br>      - Angular<br>      - Laravel<br>      - PHP<br>      - JavaScript<br>      - MySQL<br>      - Python<br>      - Dynamic web solutions that exceed expectations.<br><br>💡 From frontend design to backend development and API integration, I deliver high-quality work on tight deadlines. Let's collaborate to take your business to the next level! 💻<br><br>
+<br>🚀 Welcome! I'm Kashif, a seasoned full-stack web developer with over 7 years of experience. I specialize in:<br>      ➜ Angular<br>      ➜ Laravel<br>      ➜ PHP<br>      ➜ JavaScript<br>      ➜ MySQL<br>      ➜ Python<br>      ➜ Dynamic web solutions that exceed expectations.<br><br>💡 From frontend design to backend development and API integration, I deliver high-quality work on tight deadlines. Let's collaborate to take your business to the next level! 💻<br><br>
 
 
 ## 🌐 Socials:
